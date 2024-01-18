@@ -43,7 +43,7 @@ def open_read_append_new_file(file1, file2):
         fout.close()
 
 def open_read_append_same_file(file):
-    """ Opens the fiven file and reads all lines as a list.
+    """ Opens the given file and reads all lines as a list.
     Appends lines in the same file."""
 
     # Open the file for reading and writing
